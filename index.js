@@ -1,9 +1,8 @@
 // Code your solution in this file.
-let driversArray = ["Bob", "steve", "LOLA"];
+const names = ["Bob", "steve", "LOLA"];
 
 function lowerCaseDrivers (driversArray){
-  
-  
+    names.
 }
 
 function nameToAttributes(driversArraySeparated){
