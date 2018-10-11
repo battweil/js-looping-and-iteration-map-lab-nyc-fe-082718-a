@@ -2,7 +2,7 @@
 const names = ["Bob", "steve", "LOLA"];
 
 function lowerCaseDrivers (driversArray){
-    names.
+    return drivers in lowercase
 }
 
 function nameToAttributes(driversArraySeparated){
