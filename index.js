@@ -2,7 +2,8 @@
 const names = ["Bob", "steve", "LOLA"];
 
 function lowerCaseDrivers (driversArray){
-    return drivers in lowercase
+    let map1 = 
+    console.log(map1);
 }
 
 function nameToAttributes(driversArraySeparated){
