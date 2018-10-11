@@ -1,5 +1,5 @@
 // Code your solution in this file.
-let driversArray = [1, 4, 9, 16];
+let driversArray = ["Bob", "steve", "LOLA"];
 
 function lowerCaseDrivers (driversArray){
   
